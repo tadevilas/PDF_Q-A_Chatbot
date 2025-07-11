@@ -1,8 +1,8 @@
 streamlit
 google-generativeai
 python-dotenv
-langchain
+langchain_community
 PyPDF2
-#faiss-cpu
-langchain-google-genai
-# conda install -c conda-forge faiss-cpu
+chromadb
+faiss-cpu
+langchain_google_genai
